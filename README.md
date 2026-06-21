@@ -23,7 +23,7 @@ I'm actively looking for junior firmware or embedded systems roles in **Bengalur
 **Firmware & Languages**
 
 ![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c&logoColor=white)
 
 **Microcontrollers & Platforms**
 
