@@ -23,11 +23,9 @@ I'm actively looking for junior firmware or embedded systems roles in **Bengalur
 **Firmware & Languages**
 
 ![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=flat-square&logo=c&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat-square)
 
 **Microcontrollers & Platforms**
 
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 
 **Protocols**
@@ -39,14 +37,11 @@ I'm actively looking for junior firmware or embedded systems roles in **Bengalur
 
 **OS, RTOS & Frameworks**
 
-![Embedded Linux](https://img.shields.io/badge/Embedded_Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-8CC84B?style=flat-square)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
 ![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=flat-square&logo=espressif&logoColor=white)
 
 **Tools**
 
-![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
@@ -61,12 +56,7 @@ I'm actively looking for junior firmware or embedded systems roles in **Bengalur
 
 ---
 
-### 🤖 [Autonomous Indoor Navigation Rover](https://github.com/RenoTJ42/autonomous-rover-ros)
-> ROS-based rover capable of real-time SLAM, Monte Carlo localization, and dynamic path planning in unmapped indoor environments using RPLidar A1, Raspberry Pi, and Arduino Uno.
 
-`ROS` `gmapping` `AMCL` `move_base` `RPLidar A1` `Raspberry Pi` `Embedded Linux`
-
----
 
 ### 🌡️ [ESP32 IoT Environmental Monitor](https://github.com/RenoTJ42/esp32-bme280-iot-monitor)
 > End-to-end IoT monitoring system built from a custom I2C driver for the BME280 sensor up to a real-time Node-RED dashboard over MQTT. Full stack: hardware driver → firmware → protocol integration → visualization layer.
