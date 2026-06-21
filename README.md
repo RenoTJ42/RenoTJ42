@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Reno 👋</h1>
-  <h3>Embedded Systems Engineer &nbsp;·&nbsp; Firmware &nbsp;·&nbsp; </h3>
+  <h3>Embedded Systems Engineer &nbsp;·&nbsp; Firmware &nbsp;&nbsp; </h3>
   <br/>
   <a href="https://www.linkedin.com/in/reno-t-johny/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
@@ -23,6 +23,7 @@ I'm actively looking for junior firmware or embedded systems roles in **Bengalur
 **Firmware & Languages**
 
 ![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++]
 
 **Microcontrollers & Platforms**
 
